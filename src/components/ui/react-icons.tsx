@@ -26,6 +26,7 @@ import {
   SiTwitch,
   SiTypescript,
   SiVercel,
+  SiYoutube,
   SiVitest,
   SiX,
 } from "react-icons/si";
@@ -92,6 +93,8 @@ export default function ReactIcon({ name }: ReactIconProps) {
       return <SiTypescript />;
     case "vercel":
       return <SiVercel />;
+      case "youtube":
+        return <SiYoutube />;
     case "vitest":
       return <SiVitest />;
     default:
