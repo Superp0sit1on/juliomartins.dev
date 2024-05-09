@@ -1,0 +1,127 @@
+[
+  {
+    "id": 0,
+    "name": "React.js",
+    "icon": "react"
+  },
+  {
+    "id": 1,
+    "name": "Next.js",
+    "icon": "next"
+  },
+  {
+    "id": 2,
+    "name": "TypeScript",
+    "icon": "typescript"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "icon": "javascript"
+  },
+  {
+    "id": 4,
+    "name": "Node.js",
+    "icon": "node"
+  },
+  {
+    "id": 5,
+    "name": "Nest.js",
+    "icon": "nest"
+  },
+  {
+    "id": 6,
+    "name": "Express.js",
+    "icon": "express"
+  },
+  {
+    "id": 7,
+    "name": "Prisma",
+    "icon": "prisma"
+  },
+  {
+    "id": 8,
+    "name": "MongoDB",
+    "icon": "mongodb"
+  },
+  {
+    "id": 9,
+    "name": "PostgreSQL",
+    "icon": "postgresql"
+  },
+  {
+    "id": 10,
+    "name": "Jest",
+    "icon": "jest"
+  },
+  {
+    "id": 11,
+    "name": "Vitest",
+    "icon": "vitest"
+  },
+  {
+    "id": 12,
+    "name": "Playwright",
+    "icon": "playwright"
+  },
+  {
+    "id": 13,
+    "name": "Cypress",
+    "icon": "cypress"
+  },
+  {
+    "id": 14,
+    "name": "Java",
+    "icon": "java"
+  },
+  {
+    "id": 15,
+    "name": "Spring Framework",
+    "icon": "spring"
+  },
+  {
+    "id": 16,
+    "name": "JUnit",
+    "icon": "junit"
+  },
+  {
+    "id": 17,
+    "name": "Python",
+    "icon": "python"
+  },
+  {
+    "id": 18,
+    "name": "FastAPI",
+    "icon": "fastapi"
+  },
+  {
+    "id": 19,
+    "name": "Flask",
+    "icon": "flask"
+  },
+  {
+    "id": 20,
+    "name": "Docker",
+    "icon": "docker"
+  },
+  {
+    "id": 21,
+    "name": "AWS",
+    "icon": "aws"
+  },
+  {
+    "id": 22,
+    "name": "Azure",
+    "icon": "azure"
+  },
+  {
+    "id": 23,
+    "name": "DigitalOcean",
+    "icon": "digitalocean"
+  },
+  {
+    "id": 24,
+    "name": "Vercel",
+    "icon": "vercel"
+  }
+]

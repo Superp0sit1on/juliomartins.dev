@@ -1,0 +1,28 @@
+[
+  {
+    "id": 0,
+    "href": "https://community.revelo.com.br/construir-um-portfolio-blog-com-pelican-python-e-github-pages-actions/",
+    "img": {
+      "src": "/images/content/construir-um-portfolio-blog-com-pelican-python-e-github-pages-actions.webp",
+      "alt": "Colagem com uma foto de uma pessoa utilizando um laptop ao lado do título do artigo"
+    },
+    "type": "Blog",
+    "title": "Construir um portfólio/blog com Pelican/Python e GitHub Pages & Actions",
+    "date": "Mar 21, 2024",
+    "language": "pt-BR",
+    "tags": ["diversity", "career"]
+  },
+  {
+    "id": 1,
+    "href": "https://community.listopro.com/construir-un-portafolio-blog-con-pelican-python-y-github-pages-actions/",
+    "img": {
+      "src": "/images/content/construir-un-portafolio-blog-con-pelican-python-y-github-pages-actions.webp",
+      "alt": "Collage con una foto de una persona usando una computadora portátil al lado del título del artículo."
+    },
+    "type": "Blog",
+    "title": "Construir un portafolio/blog con Pelican/Python y GitHub Pages & Actions",
+    "date": "Mar 21, 2024",
+    "language": "es-ES",
+    "tags": ["diversity", "career"]
+  }
+]

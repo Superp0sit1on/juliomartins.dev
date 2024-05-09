@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "img": {
+      "src": "/images/badges/clfc02.webp",
+      "alt": "AWS logo"
+    },
+    "href": "https://linkedin.com/in/juliocmxavier",
+    "title": "AWS Certified: Cloud Practitioner",
+    "details": "Nov 30, 2022"
+  },
+  {
+    "id": 1,
+    "img": {
+      "src": "/images/badges/az900.webp",
+      "alt": "Microsoft Azure logo"
+    },
+    "href": "https://linkedin.com/in/juliocmxavier",
+    "title": "Microsoft Certified: Azure Fundamentals",
+    "details": "Apr 13, 2022"
+  }
+]

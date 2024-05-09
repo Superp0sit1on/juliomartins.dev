@@ -1,0 +1,57 @@
+.hero {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.info p {
+  max-width: 36ch;
+}
+
+.actions {
+  display: inline-flex;
+  gap: 12px;
+}
+
+.profile {
+  justify-self: end;
+}
+
+.profile svg {
+  position: absolute;
+  transform: translate(-20px, 30px);
+  z-index: -1;
+}
+
+.profile svg circle {
+  fill: var(--subtitle-color);
+}
+
+.profile img {
+  border-radius: 20px;
+}
+
+@media (max-width: 960px) {
+  .hero {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 32px;
+  }
+
+  .profile img,
+  .profile svg {
+    width: 192px;
+    height: 192px;
+  }
+
+  .actions {
+    justify-content: space-between;
+  }
+}

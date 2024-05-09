@@ -1,0 +1,36 @@
+.project {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 100%;
+  padding: 16px;
+  gap: 12px;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+}
+
+.project * {
+  margin: 0;
+}
+
+.project p {
+  flex-grow: 1;
+}
+
+.links {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.thumbnail {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}

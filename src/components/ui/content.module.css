@@ -1,0 +1,40 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  height: 100%;
+  padding: 16px;
+  gap: 12px;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+}
+
+.card * {
+  margin: 0;
+}
+
+.card:hover {
+  opacity: 1;
+}
+
+.card h2 {
+  flex-grow: 1;
+}
+
+.card:hover h2 {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.bottom {
+  display: inline-flex;
+  justify-content: space-between;
+  width: 100%;
+  color: var(--subtitle-color);
+}
+
+.thumbnail {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}

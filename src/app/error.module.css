@@ -1,0 +1,17 @@
+.error {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.error button {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background-color: var(--dark-gray);
+  color: var(--primary-color);
+  padding: 8px 16px;
+  border-radius: 40px;
+  font-size: 16px;
+}

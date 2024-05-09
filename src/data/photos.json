@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "src": "/images/photos/0.webp",
+    "alt": "Júlio sitting waiting for his flight at Florianópolis airport, facing the plane parking area.",
+    "rotation": 10
+  },
+  {
+    "id": 1,
+    "src": "/images/photos/1.webp",
+    "alt": "Stage of the 2023 Roadsec technology event with people sitting waiting and games of lights.",
+    "rotation": -10
+  },
+  {
+    "id": 2,
+    "src": "/images/photos/2.webp",
+    "alt": "Architecture of Luz train station facing the sunset.",
+    "rotation": 10
+  },
+  {
+    "id": 3,
+    "src": "/images/photos/3.webp",
+    "alt": "Xbox stage during the 2022 BGS during the Gears of War game championship.",
+    "rotation": -10
+  }
+]

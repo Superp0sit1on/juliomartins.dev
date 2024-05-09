@@ -1,0 +1,15 @@
+.links {
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.links a {
+  color: var(--subtitle-color);
+  font-size: 16px;
+}
+
+.links a:hover {
+  transform: translate(0, -2px);
+}

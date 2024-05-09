@@ -1,0 +1,77 @@
+.intro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 16px;
+  height: calc(100dvh - 91px);
+}
+
+.gallery {
+  display: inline-flex;
+  margin-top: 36px;
+}
+
+.intro p {
+  max-width: 48ch;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.skills {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.letter,
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: flex-start;
+}
+
+.letter {
+  min-height: 100dvh;
+}
+
+.career {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+@media (max-width: 960px) {
+  .gallery {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .gallery img {
+    max-width: 40%;
+    max-height: 40%;
+  }
+
+  .letter,
+  .grid {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+  }
+
+  .letter {
+    min-height: auto;
+  }
+}

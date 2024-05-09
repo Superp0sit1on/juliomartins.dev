@@ -1,0 +1,66 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding: 32px;
+  background-color: var(--bg-color);
+  min-height: 100dvh;
+  height: 100%;
+
+  @media (max-width: 960px) {
+    padding: 16px;
+  }
+}
+
+body,
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 32px;
+}
+
+footer,
+header,
+main {
+  max-width: 960px;
+}
+
+footer,
+header,
+main,
+section {
+  width: 100%;
+}
+
+article {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+ul {
+  list-style-position: inside;
+
+  li::marker {
+    color: var(--secondary-color);
+  }
+}
+
+button {
+  cursor: pointer;
+}
+
+a,
+button {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  transition: 0.3s;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}

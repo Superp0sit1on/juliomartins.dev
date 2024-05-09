@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "img": {
+      "src": "/images/logos/revelo.webp",
+      "alt": "Revelo logo"
+    },
+    "href": "http://www.revelo.com.br",
+    "title": "Content Writer",
+    "details": "2023 - 2023 | Freelance"
+  },
+  {
+    "id": 1,
+    "img": {
+      "src": "/images/logos/listopro.webp",
+      "alt": "Listopro logo"
+    },
+    "href": "https://www.listopro.com/",
+    "title": "Content Writer",
+    "details": "2023 - 2023 | Freelance"
+  },
+  {
+    "id": 2,
+    "img": {
+      "src": "/images/logos/ibm.webp",
+      "alt": "IBM logo"
+    },
+    "href": "http://www.ibm.com",
+    "title": "Associate Application Developer",
+    "details": "2022 - 2023 | Full-time"
+  },
+  {
+    "id": 3,
+    "img": {
+      "src": "/images/logos/ibm.webp",
+      "alt": "IBM logo"
+    },
+    "href": "http://www.ibm.com",
+    "title": "Associate Application Developer",
+    "details": "2021 - 2022 | Intern"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0",
+    "name": "About",
+    "href": "/about",
+    "external": false
+  },
+  {
+    "id": "1",
+    "name": "Projects",
+    "href": "/projects",
+    "external": false
+  },
+  {
+    "id": "2",
+    "name": "Content",
+    "href": "/content",
+    "external": false
+  }
+]

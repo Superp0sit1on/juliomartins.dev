@@ -1,0 +1,40 @@
+{
+  "name": "juliomartins.dev",
+  "version": "1.0.0",
+  "description": "Professional portfolio",
+  "homepage": "https://juliomartins.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Superp0sit1on/juliomartins.dev.git"
+  },
+  "author": "Júlio Martins <hi@juliomartins.dev> (https://juliomartins.dev)",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.2.2",
+    "framer-motion": "^11.1.9",
+    "geist": "^1.3.0",
+    "lucide-react": "^0.378.0",
+    "next": "14.2.3",
+    "next-themes": "^0.3.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.2.5",
+    "typescript": "^5"
+  }
+}

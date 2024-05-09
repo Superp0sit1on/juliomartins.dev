@@ -1,0 +1,58 @@
+.header {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+}
+
+.logo,
+.tools {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo svg {
+  width: auto;
+  height: 24px;
+}
+
+.logo svg path {
+  fill: var(--text-color);
+  color: var(--text-color);
+}
+
+.cta {
+  font-size: 14px;
+  font-weight: 500;
+  border: 1px dashed var(--text-color);
+  border-radius: 20px;
+  padding: 2px 12px;
+}
+
+.tools {
+  justify-self: flex-end;
+}
+
+.menuToggler {
+  display: none;
+}
+
+@media (max-width: 960px) {
+  .header {
+    display: inline-flex;
+    justify-content: space-between;
+  }
+
+  .menuToggler {
+    display: flex;
+    z-index: 1;
+  }
+
+  .navBar {
+    display: none;
+  }
+
+  .activated {
+    display: flex;
+  }
+}
