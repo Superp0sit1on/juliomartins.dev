@@ -27,9 +27,9 @@
     Professional portfolio made with <a href="https://nextjs.org" target="_blank">Next.js</a>, and hosted on <a href="https://vercel.com" target="_blank">Vercel</a>.
 </p>
 
-<!-- <p align="center">
-    <img src="PREVIEW.webp" alt="Screenshot of the website homepage">
-</p> -->
+<p align="center">
+    <img src="PREVIEW.gif" alt="Screenshot of the website homepage">
+</p>
 
 &nbsp;
 
