@@ -2,16 +2,6 @@
   {
     "id": 0,
     "img": {
-      "src": "/images/logos/scrimba.webp",
-      "alt": "Scrimba logo"
-    },
-    "href": "http://www.scrimba.com",
-    "title": "Frontend Developer Career Path",
-    "details": "In progress... | Certificate"
-  },
-  {
-    "id": 1,
-    "img": {
       "src": "/images/logos/senac.webp",
       "alt": "Senac University Center logo"
     },
