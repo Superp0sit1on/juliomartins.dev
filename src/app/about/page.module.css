@@ -36,10 +36,6 @@
   align-items: flex-start;
 }
 
-.letter {
-  min-height: 100dvh;
-}
-
 .career {
   display: flex;
   flex-direction: column;
@@ -69,9 +65,5 @@
     flex-direction: column;
     align-items: flex-start;
     gap: 32px;
-  }
-
-  .letter {
-    min-height: auto;
   }
 }
