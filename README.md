@@ -47,7 +47,7 @@
 
 ### 🧰 Requirements
 
-- [Node.js (^20.12.2)](http://nodejs.org/)
+- [Node.js (^20.14.0)](http://nodejs.org/)
 
 &nbsp;
 
