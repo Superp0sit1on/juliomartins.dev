@@ -1,6 +1,32 @@
 [
   {
     "id": 0,
+    "href": "https://dev.to/superp0sit1on/small-good-practices-that-make-a-difference-part-1-584",
+    "img": {
+      "src": "/images/content/small-good-practices-that-make-a-difference-part-1.webp",
+      "alt": "Kylo Ren Funko Pop under a monitor on a table, with objects around and the background brightly lit by a reddish orange led"
+    },
+    "type": "Blog",
+    "title": "Good practices that make a difference #1",
+    "date": "May 20, 2024",
+    "language": "en-US",
+    "tags": ["tech", "tutorial", "career"]
+  },
+  {
+    "id": 1,
+    "href": "https://dev.to/superp0sit1on/pequenas-boas-praticas-que-fazem-a-diferenca-parte-1-24ka",
+    "img": {
+      "src": "/images/content/pequenas-boas-praticas-que-fazem-a-diferenca-parte-1.webp",
+      "alt": "Funko Pop do Kylo Ren embaixo de um monitor em uma mesa, com objetos ao redor e fundo iluminado por um LED laranja avermelhado"
+    },
+    "type": "Blog",
+    "title": "Boas práticas que fazem a diferença #1",
+    "date": "May 20, 2024",
+    "language": "pt-BR",
+    "tags": ["tech", "tutorial", "career"]
+  },
+  {
+    "id": 2,
     "href": "https://community.revelo.com.br/construir-um-portfolio-blog-com-pelican-python-e-github-pages-actions/",
     "img": {
       "src": "/images/content/construir-um-portfolio-blog-com-pelican-python-e-github-pages-actions.webp",
@@ -10,10 +36,10 @@
     "title": "Construir um portfólio/blog com Pelican/Python e GitHub Pages & Actions",
     "date": "Mar 21, 2024",
     "language": "pt-BR",
-    "tags": ["diversity", "career"]
+    "tags": ["tech", "tutorial", "career"]
   },
   {
-    "id": 1,
+    "id": 3,
     "href": "https://community.listopro.com/construir-un-portafolio-blog-con-pelican-python-y-github-pages-actions/",
     "img": {
       "src": "/images/content/construir-un-portafolio-blog-con-pelican-python-y-github-pages-actions.webp",
@@ -23,6 +49,6 @@
     "title": "Construir un portafolio/blog con Pelican/Python y GitHub Pages & Actions",
     "date": "Mar 21, 2024",
     "language": "es-ES",
-    "tags": ["diversity", "career"]
+    "tags": ["tech", "tutorial", "career"]
   }
 ]
