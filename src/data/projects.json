@@ -29,7 +29,7 @@
     "type": "Chatbot",
     "tech": "python",
     "title": "Sonny",
-    "description": "Twitch AI Chatbot which interacts and provide information for my Twitch channel viewers.",
+    "description": "Twitch Chatbot which interacts and provide information for my Twitch channel viewers.",
     "links": [
       {
         "id": 0,
@@ -45,7 +45,7 @@
       },
       {
         "id": 2,
-        "href": "https://github.com/Superp0sit1on/twitch-chatbot",
+        "href": "https://github.com/Superp0sit1on/sonny",
         "name": "GitHub",
         "icon": "Github"
       }
@@ -53,112 +53,6 @@
     "img": {
       "src": "/images/projects/under-development.webp",
       "alt": "Under development..."
-    }
-  },
-  {
-    "id": 2,
-    "type": "Chatbot",
-    "tech": "python",
-    "title": "Feministech Bot",
-    "description": "Twitch chatbot which provide Feministech information and commands on all Feministech channels.",
-    "links": [
-      {
-        "id": 0,
-        "href": "https://www.twitch.tv/team/livecodergirls",
-        "name": "Twitch",
-        "icon": "Twitch"
-      },
-      {
-        "id": 1,
-        "href": "http://feministech.github.io/feministech-bot/",
-        "name": "Docs",
-        "icon": "Book"
-      },
-      {
-        "id": 2,
-        "href": "https://github.com/feministech/feministech-bot",
-        "name": "GitHub",
-        "icon": "Github"
-      }
-    ],
-    "img": {
-      "src": "/images/projects/feministech-bot.webp",
-      "alt": "Screenshot of the Feministech Bot documentation"
-    }
-  },
-  {
-    "id": 3,
-    "type": "Game",
-    "tech": "godot",
-    "title": "Untitled",
-    "description": "3D puzzle game made for the Women Game Jam 2023.",
-    "links": [
-      {
-        "id": 0,
-        "href": "https://superp0sit1on.itch.io/purrsh-the-button",
-        "name": "itch.io",
-        "icon": "Joystick"
-      },
-      {
-        "id": 1,
-        "href": "https://github.com/Superp0sit1on/purrsh-the-button",
-        "name": "GitHub",
-        "icon": "Github"
-      }
-    ],
-    "img": {
-      "src": "/images/projects/purrsh-the-button.webp",
-      "alt": "Thumbnail of the Purrsh the Button game"
-    }
-  },
-  {
-    "id": 4,
-    "type": "Game",
-    "tech": "unity",
-    "title": "Connections",
-    "description": "2D story-telling game made for the Women Game Jam 2020.",
-    "links": [
-      {
-        "id": 0,
-        "href": "https://superp0sit1on.itch.io/connections",
-        "name": "itch.io",
-        "icon": "Joystick"
-      },
-      {
-        "id": 1,
-        "href": "https://github.com/Superp0sit1on/connections",
-        "name": "GitHub",
-        "icon": "Github"
-      }
-    ],
-    "img": {
-      "src": "/images/projects/connections.webp",
-      "alt": "Thumbnail of the Connections game"
-    }
-  },
-  {
-    "id": 5,
-    "type": "Game",
-    "tech": "godot",
-    "title": "Terragaia Chronicles",
-    "description": "Platform game made for June/2020 edition of Definitely Not Another Game Jam.",
-    "links": [
-      {
-        "id": 0,
-        "href": "https://superp0sit1on.itch.io/terragaia",
-        "name": "itch.io",
-        "icon": "Joystick"
-      },
-      {
-        "id": 1,
-        "href": "https://github.com/Superp0sit1on/terragaia",
-        "name": "GitHub",
-        "icon": "Github"
-      }
-    ],
-    "img": {
-      "src": "/images/projects/terragaia.webp",
-      "alt": "Thumbnail of the Terragia Chronicles game"
     }
   }
 ]

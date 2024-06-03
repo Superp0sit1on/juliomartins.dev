@@ -20,7 +20,7 @@ function Home() {
         <div className={styles.info}>
           <h1>Welcome! 👋</h1>
           <p>
-            I am <strong>Júlio</strong>, a <strong>Fullstack Developer</strong>,
+            I am <strong>Júlio</strong>, a <strong>Software Engineer</strong>,
             based in São Paulo, Brazil, and{" "}
             <strong>
               passionate about enhancing user and developer experiences

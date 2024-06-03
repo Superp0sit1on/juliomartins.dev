@@ -28,7 +28,7 @@ export default function About() {
         <h1>Hi there! 👋</h1>
         <p>
           My name is <strong>Júlio</strong>, but you can call me{" "}
-          <strong>Ju</strong>. I am a <strong>Fullstack developer</strong>,
+          <strong>Ju</strong>. I am a <strong>Software Engineer</strong>,
           currently based in <strong>São Paulo</strong>, <strong>Brazil</strong>
           .
         </p>

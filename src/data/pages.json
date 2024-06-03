@@ -16,5 +16,11 @@
     "name": "Content",
     "href": "/content",
     "external": false
+  },
+  {
+    "id": "3",
+    "name": "Blog",
+    "href": "https://dev.to/superp0sit1on",
+    "external": true
   }
 ]
