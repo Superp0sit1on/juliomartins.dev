@@ -28,7 +28,6 @@ import {
   SiVercel,
   SiYoutube,
   SiVitest,
-  SiX,
 } from "react-icons/si";
 
 interface ReactIconProps {
@@ -43,8 +42,6 @@ export default function ReactIcon({ name }: ReactIconProps) {
       return <SiLinkedin />;
     case "twitch":
       return <SiTwitch />;
-    case "x":
-      return <SiX />;
     case "aws":
       return <SiAmazonaws />;
     case "azure":
