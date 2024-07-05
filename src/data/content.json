@@ -1,10 +1,36 @@
 [
   {
     "id": 0,
+    "href": "https://dev.to/superp0sit1on/good-practices-that-make-a-difference-2-30lk",
+    "img": {
+      "src": "/images/content/small-good-practices-that-make-a-difference-part-2.webp",
+      "alt": "Floating 3D emoji of a face with a monocle, with a lock with a key 3D emoji below, followed by the Git logo and another 3D emoji of a document organizer, with a colorful, blurred background."
+    },
+    "type": "Blog",
+    "title": "Good practices that make a difference #2 📝",
+    "date": "Jul 7, 2024",
+    "language": "en-US",
+    "tags": ["tech", "tutorial", "career"]
+  },
+  {
+    "id": 1,
+    "href": "https://dev.to/superp0sit1on/boas-praticas-que-fazem-a-diferenca-2-gmo",
+    "img": {
+      "src": "/images/content/pequenas-boas-praticas-que-fazem-a-diferenca-parte-2.webp",
+      "alt": "Emoji 3D flutuando de um rosto com monóculo, com um emoji 3D de um cadeado com uma chave logo abaixo, seguido do logo do Git e outro emoji 3D de um organizador de documentos, com um fundo colorido e desfocado."
+    },
+    "type": "Blog",
+    "title": "Boas práticas que fazem a diferença #2 📝",
+    "date": "Jul 7, 2024",
+    "language": "pt-BR",
+    "tags": ["tech", "tutorial", "career"]
+  },
+  {
+    "id": 2,
     "href": "https://dev.to/superp0sit1on/awesome-open-source-38h6",
     "img": {
       "src": "/images/content/awesome-open-source.webp",
-      "alt": "3D emoji of a smiling face with sunglasses with logos of open-source projects and party poppers 3d emojis on both sides, and a blured and colorful background."
+      "alt": "Floating 3D emoji of a smiling face with sunglasses with logos of open-source projects and party poppers 3d emojis on both sides, and a blured and colorful background."
     },
     "type": "Blog",
     "title": "Awesome Open-Source 😎",
@@ -13,11 +39,11 @@
     "tags": ["tech"]
   },
   {
-    "id": 1,
+    "id": 3,
     "href": "https://dev.to/superp0sit1on/small-good-practices-that-make-a-difference-part-1-584",
     "img": {
       "src": "/images/content/small-good-practices-that-make-a-difference-part-1.webp",
-      "alt": "Kylo Ren Funko Pop under a monitor on a table, with objects around and the background brightly lit by a reddish orange led"
+      "alt": "Floating 3D emoji of a face with a monocle, with a clipboard 3D emoji below, followed by the Git logo and another 3D emoji of a document organizer, with a colorful, blurred background."
     },
     "type": "Blog",
     "title": "Good practices that make a difference #1 📝",
@@ -26,11 +52,11 @@
     "tags": ["tech", "tutorial", "career"]
   },
   {
-    "id": 2,
+    "id": 4,
     "href": "https://dev.to/superp0sit1on/pequenas-boas-praticas-que-fazem-a-diferenca-parte-1-24ka",
     "img": {
       "src": "/images/content/pequenas-boas-praticas-que-fazem-a-diferenca-parte-1.webp",
-      "alt": "Funko Pop do Kylo Ren embaixo de um monitor em uma mesa, com objetos ao redor e fundo iluminado por um LED laranja avermelhado"
+      "alt": "Emoji 3D flutuando de um rosto com monóculo, com um emoji 3D de prancheta logo abaixo, seguido do logo do Git e outro emoji 3D de um organizador de documentos, com um fundo colorido e desfocado."
     },
     "type": "Blog",
     "title": "Boas práticas que fazem a diferença #1 📝",
